@@ -12,8 +12,8 @@
     <title>Sponsors</title>
     
   </head>
+	
   <body>
-    
     <center><h1>OUR SPONSORS</h1></center>
 
 <!---------------DESKTOP NAVBAR------------------------->
